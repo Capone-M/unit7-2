@@ -12,10 +12,15 @@ Add your CSS to the ID selectors below
 }
 
 #ball{
-
+  position: absolute;
+  top: 20px;
+  left: 23px;
 }
 
 #turnip{
+  position: absolute;
+  top: 267px;
+  left: 297px;
 
 }
 
@@ -24,6 +29,9 @@ Add your CSS to the ID selectors below
 }
 
 #grass{
+  position: absolute;
+  top: 267px;
+  left: 493px;
 
 }
 
@@ -32,13 +40,22 @@ Add your CSS to the ID selectors below
 }
 
 #L{
+  position: absolute;
+  top: 1700px;
+  left: 100px;
 
 }
 
 #T{
+  position: absolute;
+  top: 1800px;
+  left: 500px;
 
 }
 
 #I{
+  position: absolute;
+  top: 1700px;
+  left: 1000px;
 
 }
